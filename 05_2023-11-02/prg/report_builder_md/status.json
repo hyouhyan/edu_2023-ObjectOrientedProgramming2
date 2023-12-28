@@ -1,0 +1,20 @@
+{
+    "basic_info": {
+        "CLASS_NO": 11,
+        "MY_ID": "K23999",
+        "MY_NAME": "愛知太郎",
+        "GROUP_ID": 99,
+        "LEADER_ID":"K23999",
+        "LEADER_NAME": "愛知太郎",
+        "MEMBER_ID_1":"K23999",
+        "MEMBER_NAME_1": "愛知太郎",
+        "MEMBER_ID_2":"K23998",
+        "MEMBER_NAME_2": "愛知花子",
+        "MEMBER_ID_3":"K23997",
+        "MEMBER_NAME_3": "工業自由",
+        "MEMBER_ID_4":"K23996",
+        "MEMBER_NAME_4": "工業正義",
+        "MEMBER_ID_5":"K23995",
+        "MEMBER_NAME_5": "工業愛"
+    }
+}

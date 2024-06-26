@@ -5,7 +5,7 @@
 [2023AIT-OOP2-G03](https://github.com/2023AIT-OOP2-G03)
 
 ## 仕様
-- Python 3.11.5
+- 言語: Python 3.11.5
 
 
 # シラバス(一部抜粋)

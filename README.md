@@ -1,6 +1,9 @@
 # edu_2023-ObjectOrientedProgramming2
 2023年度 後期 オブジェクト指向プログラミング及び演習2 の授業で作成したプログラムたち。
 
+10回目以降はチーム開発のため、下記Organizationを参照
+[2023AIT-OOP2-G03](https://github.com/2023AIT-OOP2-G03)
+
 ## 仕様
 - Python 3.11.5
 

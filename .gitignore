@@ -161,3 +161,7 @@ Thumbs.db
 
 # Daigaku no JugyoFile
 授業資料/
+
+*.zip
+
+.vscode

@@ -6,6 +6,10 @@
 
 ## 仕様
 - 言語: Python 3.11.5
+- 使用ライブラリ
+    - PyQt(PySide)
+    - OpenCV
+    - flask
 
 
 # シラバス(一部抜粋)
